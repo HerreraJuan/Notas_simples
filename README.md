@@ -13,5 +13,3 @@ Note taking app inspired by the Coding in Flow. Rewritten in Kotlin and implemen
 
 
 App supports various database queries & swipe to delete function on the RecyclerView. Utilizes recent ListAdapter library to create animations possible on dataset changes.
-
-[here]: <https://www.youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118>
