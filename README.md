@@ -1,15 +1,15 @@
-# Notes-App
+# Bloc de notas
 
-Note taking app inspired by the Coding in Flow. Rewritten in Kotlin and implements the new androidx librar.
+Aplicación para tomar notas inspirada en la Codificación en Flujo. Reescrito en Kotlin e implementa la nueva biblioteca de androidx.
 
-### Used Tech
+### Tecnología usada
 
   - Kotlin
   - MVVM
-  - Room 
-  - LiveData
+  - Habitación
+  - Datos en tiempo real
   - ViewModel
-  - ListAdapter for animations on data changes
+  - ListAdapter para animaciones sobre cambios de datos
 
 
-App supports various database queries & swipe to delete function on the RecyclerView. Utilizes recent ListAdapter library to create animations possible on dataset changes.
+La aplicación es compatible con varias consultas de base de datos y se desliza para eliminar la función en RecyclerView. Utiliza la biblioteca reciente de ListAdapter para crear animaciones posibles en los cambios del conjunto de datos.
